@@ -8,7 +8,7 @@
 
 使用随附的.bat脚本为正确的体系结构编译系统的二进制文件（仅Windows！）。已使用Visual Studio 2013测试-如果使用其他版本的VS，请编辑脚本以指向“ vcvarsall.bat”的副本。
 
-运行worker_setup / worker_setup.py
+运行manage.py
 
 该脚本应根据需要设置虚拟机，重新启动并启动模糊器。
 
